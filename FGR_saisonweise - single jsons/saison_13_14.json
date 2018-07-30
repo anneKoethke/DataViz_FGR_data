@@ -1,0 +1,112 @@
+{
+  "saison_13_14": [
+    {
+      "team": "Bayern Munich",
+      "fouls": 407,
+      "red": 2,
+      "yellow": 45
+    },
+    {
+      "team": "M'gladbach",
+      "fouls": 361,
+      "red": 3,
+      "yellow": 50
+    },
+    {
+      "team": "Augsburg",
+      "fouls": 518,
+      "red": 1,
+      "yellow": 61
+    },
+    {
+      "team": "Dortmund",
+      "fouls": 464,
+      "red": 2,
+      "yellow": 43
+    },
+    {
+      "team": "Braunschweig",
+      "fouls": 553,
+      "red": 3,
+      "yellow": 62
+    },
+    {
+      "team": "Werder Bremen",
+      "fouls": 551,
+      "red": 3,
+      "yellow": 73
+    },
+    {
+      "team": "Hannover",
+      "fouls": 591,
+      "red": 6,
+      "yellow": 71
+    },
+    {
+      "team": "Wolfsburg",
+      "fouls": 550,
+      "red": 8,
+      "yellow": 54
+    },
+    {
+      "team": "Hertha",
+      "fouls": 552,
+      "red": 1,
+      "yellow": 56
+    },
+    {
+      "team": "Ein Frankfurt",
+      "fouls": 556,
+      "red": 2,
+      "yellow": 75
+    },
+    {
+      "team": "Hoffenheim",
+      "fouls": 658,
+      "red": 2,
+      "yellow": 63
+    },
+    {
+      "team": "Nurnberg",
+      "fouls": 524,
+      "red": 4,
+      "yellow": 71
+    },
+    {
+      "team": "Leverkusen",
+      "fouls": 510,
+      "red": 2,
+      "yellow": 69
+    },
+    {
+      "team": "Freiburg",
+      "fouls": 513,
+      "red": 5,
+      "yellow": 62
+    },
+    {
+      "team": "Mainz",
+      "fouls": 494,
+      "red": 4,
+      "yellow": 53
+    },
+    {
+      "team": "Stuttgart",
+      "fouls": 507,
+      "red": 5,
+      "yellow": 60
+    },
+    {
+      "team": "Schalke 04",
+      "fouls": 556,
+      "red": 5,
+      "yellow": 53
+    },
+    {
+      "team": "Hamburg",
+      "fouls": 537,
+      "red": 2,
+      "yellow": 54
+    }
+  ]
+}

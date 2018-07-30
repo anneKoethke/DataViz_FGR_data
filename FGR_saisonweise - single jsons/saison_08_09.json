@@ -1,0 +1,112 @@
+{
+  "saison_08_09": [
+    {
+      "team": "Bayern Munich",
+      "fouls": 569,
+      "red": 3,
+      "yellow": 63
+    },
+    {
+      "team": "Hamburg",
+      "fouls": 630,
+      "red": 3,
+      "yellow": 75
+    },
+    {
+      "team": "Bielefeld",
+      "fouls": 542,
+      "red": 4,
+      "yellow": 65
+    },
+    {
+      "team": "Werder Bremen",
+      "fouls": 570,
+      "red": 4,
+      "yellow": 55
+    },
+    {
+      "team": "Cottbus",
+      "fouls": 708,
+      "red": 3,
+      "yellow": 70
+    },
+    {
+      "team": "Hoffenheim",
+      "fouls": 692,
+      "red": 6,
+      "yellow": 71
+    },
+    {
+      "team": "Karlsruhe",
+      "fouls": 625,
+      "red": 2,
+      "yellow": 64
+    },
+    {
+      "team": "Bochum",
+      "fouls": 663,
+      "red": 7,
+      "yellow": 75
+    },
+    {
+      "team": "Leverkusen",
+      "fouls": 596,
+      "red": 5,
+      "yellow": 57
+    },
+    {
+      "team": "Dortmund",
+      "fouls": 546,
+      "red": 5,
+      "yellow": 48
+    },
+    {
+      "team": "Schalke 04",
+      "fouls": 578,
+      "red": 6,
+      "yellow": 60
+    },
+    {
+      "team": "Hannover",
+      "fouls": 607,
+      "red": 4,
+      "yellow": 58
+    },
+    {
+      "team": "Wolfsburg",
+      "fouls": 655,
+      "red": 2,
+      "yellow": 56
+    },
+    {
+      "team": "FC Koln",
+      "fouls": 547,
+      "red": 4,
+      "yellow": 70
+    },
+    {
+      "team": "Ein Frankfurt",
+      "fouls": 620,
+      "red": 3,
+      "yellow": 77
+    },
+    {
+      "team": "Hertha",
+      "fouls": 564,
+      "red": 1,
+      "yellow": 62
+    },
+    {
+      "team": "M'gladbach",
+      "fouls": 700,
+      "red": 0,
+      "yellow": 71
+    },
+    {
+      "team": "Stuttgart",
+      "fouls": 621,
+      "red": 0,
+      "yellow": 69
+    }
+  ]
+}

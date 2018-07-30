@@ -1,0 +1,112 @@
+{
+  "saison_10_11": [
+    {
+      "team": "Bayern Munich",
+      "fouls": 429,
+      "red": 2,
+      "yellow": 43
+    },
+    {
+      "team": "Wolfsburg",
+      "fouls": 594,
+      "red": 2,
+      "yellow": 71
+    },
+    {
+      "team": "FC Koln",
+      "fouls": 616,
+      "red": 1,
+      "yellow": 79
+    },
+    {
+      "team": "Kaiserslautern",
+      "fouls": 628,
+      "red": 4,
+      "yellow": 59
+    },
+    {
+      "team": "Freiburg",
+      "fouls": 556,
+      "red": 3,
+      "yellow": 46
+    },
+    {
+      "team": "St Pauli",
+      "fouls": 566,
+      "red": 5,
+      "yellow": 56
+    },
+    {
+      "team": "Hamburg",
+      "fouls": 502,
+      "red": 2,
+      "yellow": 53
+    },
+    {
+      "team": "Schalke 04",
+      "fouls": 580,
+      "red": 4,
+      "yellow": 51
+    },
+    {
+      "team": "Hannover",
+      "fouls": 595,
+      "red": 5,
+      "yellow": 54
+    },
+    {
+      "team": "Ein Frankfurt",
+      "fouls": 514,
+      "red": 3,
+      "yellow": 73
+    },
+    {
+      "team": "Hoffenheim",
+      "fouls": 654,
+      "red": 4,
+      "yellow": 61
+    },
+    {
+      "team": "Werder Bremen",
+      "fouls": 568,
+      "red": 4,
+      "yellow": 67
+    },
+    {
+      "team": "M'gladbach",
+      "fouls": 533,
+      "red": 8,
+      "yellow": 51
+    },
+    {
+      "team": "Nurnberg",
+      "fouls": 558,
+      "red": 3,
+      "yellow": 62
+    },
+    {
+      "team": "Dortmund",
+      "fouls": 501,
+      "red": 1,
+      "yellow": 39
+    },
+    {
+      "team": "Leverkusen",
+      "fouls": 510,
+      "red": 1,
+      "yellow": 55
+    },
+    {
+      "team": "Mainz",
+      "fouls": 561,
+      "red": 1,
+      "yellow": 53
+    },
+    {
+      "team": "Stuttgart",
+      "fouls": 530,
+      "red": 4,
+      "yellow": 65
+    }
+  ]
+}

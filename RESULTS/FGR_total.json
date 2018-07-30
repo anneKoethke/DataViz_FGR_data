@@ -1,0 +1,206 @@
+[
+  {
+    "team": "Bayern Munich",
+    "fouls": 5070,
+    "red": 18,
+    "yellow": 504
+  },
+  {
+    "team": "Dortmund",
+    "fouls": 5510,
+    "red": 24,
+    "yellow": 526
+  },
+  {
+    "team": "Hamburg",
+    "fouls": 6594,
+    "red": 40,
+    "yellow": 714
+  },
+  {
+    "team": "Bielefeld",
+    "fouls": 1536,
+    "red": 7,
+    "yellow": 173
+  },
+  {
+    "team": "Leverkusen",
+    "fouls": 6074,
+    "red": 39,
+    "yellow": 680
+  },
+  {
+    "team": "Aachen",
+    "fouls": 639,
+    "red": 5,
+    "yellow": 73
+  },
+  {
+    "team": "Mainz",
+    "fouls": 4937,
+    "red": 27,
+    "yellow": 513
+  },
+  {
+    "team": "Bochum",
+    "fouls": 2533,
+    "red": 15,
+    "yellow": 269
+  },
+  {
+    "team": "M'gladbach",
+    "fouls": 4969,
+    "red": 24,
+    "yellow": 532
+  },
+  {
+    "team": "Cottbus",
+    "fouls": 2055,
+    "red": 7,
+    "yellow": 223
+  },
+  {
+    "team": "Schalke 04",
+    "fouls": 6248,
+    "red": 32,
+    "yellow": 662
+  },
+  {
+    "team": "Ein Frankfurt",
+    "fouls": 5654,
+    "red": 34,
+    "yellow": 709
+  },
+  {
+    "team": "Stuttgart",
+    "fouls": 5522,
+    "red": 44,
+    "yellow": 634
+  },
+  {
+    "team": "Nurnberg",
+    "fouls": 3992,
+    "red": 18,
+    "yellow": 455
+  },
+  {
+    "team": "Hannover",
+    "fouls": 5864,
+    "red": 39,
+    "yellow": 644
+  },
+  {
+    "team": "Werder Bremen",
+    "fouls": 6145,
+    "red": 37,
+    "yellow": 711
+  },
+  {
+    "team": "Wolfsburg",
+    "fouls": 6428,
+    "red": 32,
+    "yellow": 653
+  },
+  {
+    "team": "Hertha",
+    "fouls": 4838,
+    "red": 29,
+    "yellow": 565
+  },
+  {
+    "team": "Hansa Rostock",
+    "fouls": 571,
+    "red": 0,
+    "yellow": 62
+  },
+  {
+    "team": "Duisburg",
+    "fouls": 723,
+    "red": 5,
+    "yellow": 86
+  },
+  {
+    "team": "Karlsruhe",
+    "fouls": 1175,
+    "red": 3,
+    "yellow": 120
+  },
+  {
+    "team": "Hoffenheim",
+    "fouls": 5435,
+    "red": 29,
+    "yellow": 588
+  },
+  {
+    "team": "FC Koln",
+    "fouls": 3611,
+    "red": 20,
+    "yellow": 461
+  },
+  {
+    "team": "Freiburg",
+    "fouls": 3708,
+    "red": 17,
+    "yellow": 392
+  },
+  {
+    "team": "Kaiserslautern",
+    "fouls": 1229,
+    "red": 8,
+    "yellow": 128
+  },
+  {
+    "team": "St Pauli",
+    "fouls": 566,
+    "red": 5,
+    "yellow": 56
+  },
+  {
+    "team": "Augsburg",
+    "fouls": 3240,
+    "red": 13,
+    "yellow": 407
+  },
+  {
+    "team": "Fortuna Dusseldorf",
+    "fouls": 516,
+    "red": 3,
+    "yellow": 76
+  },
+  {
+    "team": "Greuther Furth",
+    "fouls": 651,
+    "red": 6,
+    "yellow": 76
+  },
+  {
+    "team": "Braunschweig",
+    "fouls": 553,
+    "red": 3,
+    "yellow": 62
+  },
+  {
+    "team": "Paderborn",
+    "fouls": 484,
+    "red": 3,
+    "yellow": 51
+  },
+  {
+    "team": "Darmstadt",
+    "fouls": 1073,
+    "red": 6,
+    "yellow": 153
+  },
+  {
+    "team": "Ingolstadt",
+    "fouls": 1080,
+    "red": 8,
+    "yellow": 148
+  },
+  {
+    "team": "RB Leipzig",
+    "fouls": 523,
+    "red": 2,
+    "yellow": 66
+  }
+]

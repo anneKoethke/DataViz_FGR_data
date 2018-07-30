@@ -1,0 +1,112 @@
+{
+  "saison_12_13": [
+    {
+      "team": "Dortmund",
+      "fouls": 456,
+      "red": 4,
+      "yellow": 43
+    },
+    {
+      "team": "Werder Bremen",
+      "fouls": 543,
+      "red": 6,
+      "yellow": 55
+    },
+    {
+      "team": "Augsburg",
+      "fouls": 564,
+      "red": 2,
+      "yellow": 69
+    },
+    {
+      "team": "Fortuna Dusseldorf",
+      "fouls": 516,
+      "red": 3,
+      "yellow": 76
+    },
+    {
+      "team": "Ein Frankfurt",
+      "fouls": 526,
+      "red": 2,
+      "yellow": 62
+    },
+    {
+      "team": "Leverkusen",
+      "fouls": 516,
+      "red": 2,
+      "yellow": 61
+    },
+    {
+      "team": "Freiburg",
+      "fouls": 515,
+      "red": 3,
+      "yellow": 56
+    },
+    {
+      "team": "Mainz",
+      "fouls": 515,
+      "red": 4,
+      "yellow": 69
+    },
+    {
+      "team": "Greuther Furth",
+      "fouls": 651,
+      "red": 6,
+      "yellow": 76
+    },
+    {
+      "team": "Bayern Munich",
+      "fouls": 440,
+      "red": 1,
+      "yellow": 35
+    },
+    {
+      "team": "Hamburg",
+      "fouls": 603,
+      "red": 4,
+      "yellow": 67
+    },
+    {
+      "team": "Nurnberg",
+      "fouls": 581,
+      "red": 2,
+      "yellow": 68
+    },
+    {
+      "team": "M'gladbach",
+      "fouls": 455,
+      "red": 1,
+      "yellow": 57
+    },
+    {
+      "team": "Hoffenheim",
+      "fouls": 578,
+      "red": 5,
+      "yellow": 73
+    },
+    {
+      "team": "Stuttgart",
+      "fouls": 561,
+      "red": 7,
+      "yellow": 71
+    },
+    {
+      "team": "Wolfsburg",
+      "fouls": 595,
+      "red": 4,
+      "yellow": 59
+    },
+    {
+      "team": "Hannover",
+      "fouls": 536,
+      "red": 4,
+      "yellow": 74
+    },
+    {
+      "team": "Schalke 04",
+      "fouls": 501,
+      "red": 3,
+      "yellow": 55
+    }
+  ]
+}

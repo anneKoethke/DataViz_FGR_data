@@ -1,0 +1,112 @@
+{
+  "saison_16_17": [
+    {
+      "team": "Bayern Munich",
+      "fouls": 360,
+      "red": 0,
+      "yellow": 47
+    },
+    {
+      "team": "Werder Bremen",
+      "fouls": 476,
+      "red": 2,
+      "yellow": 67
+    },
+    {
+      "team": "Augsburg",
+      "fouls": 494,
+      "red": 3,
+      "yellow": 66
+    },
+    {
+      "team": "Wolfsburg",
+      "fouls": 513,
+      "red": 3,
+      "yellow": 65
+    },
+    {
+      "team": "Dortmund",
+      "fouls": 413,
+      "red": 2,
+      "yellow": 55
+    },
+    {
+      "team": "Mainz",
+      "fouls": 493,
+      "red": 7,
+      "yellow": 67
+    },
+    {
+      "team": "Ein Frankfurt",
+      "fouls": 538,
+      "red": 6,
+      "yellow": 82
+    },
+    {
+      "team": "Schalke 04",
+      "fouls": 508,
+      "red": 3,
+      "yellow": 69
+    },
+    {
+      "team": "FC Koln",
+      "fouls": 476,
+      "red": 1,
+      "yellow": 72
+    },
+    {
+      "team": "Darmstadt",
+      "fouls": 516,
+      "red": 5,
+      "yellow": 67
+    },
+    {
+      "team": "Hamburg",
+      "fouls": 564,
+      "red": 5,
+      "yellow": 73
+    },
+    {
+      "team": "Ingolstadt",
+      "fouls": 554,
+      "red": 6,
+      "yellow": 69
+    },
+    {
+      "team": "M'gladbach",
+      "fouls": 419,
+      "red": 2,
+      "yellow": 46
+    },
+    {
+      "team": "Leverkusen",
+      "fouls": 478,
+      "red": 4,
+      "yellow": 50
+    },
+    {
+      "team": "Hertha",
+      "fouls": 473,
+      "red": 3,
+      "yellow": 63
+    },
+    {
+      "team": "Freiburg",
+      "fouls": 445,
+      "red": 1,
+      "yellow": 56
+    },
+    {
+      "team": "Hoffenheim",
+      "fouls": 514,
+      "red": 1,
+      "yellow": 63
+    },
+    {
+      "team": "RB Leipzig",
+      "fouls": 523,
+      "red": 2,
+      "yellow": 66
+    }
+  ]
+}
